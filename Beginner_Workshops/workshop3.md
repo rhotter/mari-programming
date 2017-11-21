@@ -33,11 +33,11 @@ var circle = new Circle(30);
 
 Now, we have different methods that we can use for our circle:
 ``` javascript
-	circle.setPosition(500,100);
-	circle.setColor(Color.blue);
+circle.setPosition(500,100);
+circle.setColor(Color.blue);
 ```
 
 Just creating an object though isn't enough. We have to add it to the screen:
 ``` javascript
-	add(circle);
+add(circle);
 ```
