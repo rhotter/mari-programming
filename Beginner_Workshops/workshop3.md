@@ -8,7 +8,7 @@
 * **Assigning to a variable:** `numApples = 2;`
 
 ## Functions with Parameters
-* With Karel, we had functions typically of the form:
+With Karel, we had functions typically of the form:
 ```javascript
 function some_name() {
   // Some code goes here.
