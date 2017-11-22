@@ -1,6 +1,16 @@
 # Design a Pac-Man Character!
 
-## Drawing a Circle
+## Instructions
+Write a program to draw ghosts on the screen. You must do this by writing a function called drawGhost, which takes three parameters, the center x location of the ghost, the center y location of the ghost and the color of the ghost.
+
+```javascript
+function drawGhost(centerX, centerY, color){
+
+}
+```
+
+## How to Draw Basic Shapes
+### Drawing a Circle
 ```javascript
 // Create an object variable called circ (could be any name), with the Circle template.
 var circ = new Circle(radius); 
@@ -16,7 +26,7 @@ add(circ);
 
 ```
 
-## Drawing a Rectangle
+### Drawing a Rectangle
 ```javascript
 // Create an object variable called rect (could be any name), with the Rectangle template.
 var rect = new Rectangle(width,height); 
@@ -31,6 +41,3 @@ rect.setColor(Color.someColor);
 rect(circ);
 
 ```
-
-
-## Drawing a 
