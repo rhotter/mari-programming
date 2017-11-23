@@ -11,6 +11,11 @@ function drawGhost(centerX, centerY, color){
 }
 ```
 
+**Tips:**
+1. Divide your problem into basic shapes to draw
+2. Evaluate the relationship between the position of each shape.
+3. A `drawCircle()` function would be very useful to avoid having to draw circles all the time!
+
 ## How to Draw Basic Shapes
 ### Drawing a Circle
 ```javascript
