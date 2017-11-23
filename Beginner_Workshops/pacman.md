@@ -1,7 +1,9 @@
-# Design a Pac-Man Character!
+# Design a Pac-Man Ghost!
 
 ## Instructions
 Write a program to draw ghosts on the screen. You must do this by writing a function called drawGhost, which takes three parameters, the center x location of the ghost, the center y location of the ghost and the color of the ghost.
+
+**Note:** The center of the ghost does not have to be exactly at the center. Rather, it can be any point on the ghost.
 
 ```javascript
 function drawGhost(centerX, centerY, color){
