@@ -23,7 +23,7 @@ function area_of_triangle(base,height) {
   var area = base*height/2;
   println(area);
 }
-``
+```
 
 ## Graphics and Object-Oriented Programming
 In the real world, we're surrounded by objects everywhere. Let's take for example a car. A car has methods that are specific only to the car. For example, it can `accelerate()` and `break()`. Now there are many different types of cars, but they might all share the same methods. We call this an object template. So each car will be a different object, but have the same object template.
