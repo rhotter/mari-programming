@@ -4,8 +4,11 @@
 ### What is a variable?
 
 ### Using Variables
-* **Declaring a variable:** `var numApples`
-* **Assigning to a variable:** `numApples = 2;`
+* When we want to create room in our computer's memory for the variable, we can **declare it**. We do this by using the `var` keyword followed by the name of the variable.
+```
+var myVariable;
+```
+* **Assigning to a variable:** `myVariable = 2;`
 
 ## Functions with Parameters
 Until now, we haven't put anything inside the brackets when we call on a function. Now, we can add **paramaters** inside the brackets. Parameters allow our function to take input.
