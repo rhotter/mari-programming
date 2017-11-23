@@ -10,7 +10,7 @@ var myVariable;
 ```
 * When we want to **assign** a value to the variable, we simply write the name of the variable followed by the `=` sign and the value. 
 ```javascript
-hello myVariable = 2;
+myVariable = 2;
 ```
 
 
