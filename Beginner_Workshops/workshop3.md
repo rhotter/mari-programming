@@ -2,6 +2,7 @@
 
 ## Introduction to Variables
 ### What is a variable?
+Variables allow us to remember things. They do this by creating a space in the computer's memory for some value.
 
 ### Using Variables
 * When we want to create room in our computer's memory for the variable, we can **declare it**. We do this by using the `var` keyword followed by the name of the variable.
