@@ -5,10 +5,12 @@
 
 ### Using Variables
 * When we want to create room in our computer's memory for the variable, we can **declare it**. We do this by using the `var` keyword followed by the name of the variable.
-```
+```javascript
 var myVariable;
 ```
-* **Assigning to a variable:** `myVariable = 2;`
+* When we want to **assign** a value to the variable, we simply write the name of the variable followed by the `=` sign and the value. ```javascript
+myVariable = 2;
+```
 
 ## Functions with Parameters
 Until now, we haven't put anything inside the brackets when we call on a function. Now, we can add **paramaters** inside the brackets. Parameters allow our function to take input.
