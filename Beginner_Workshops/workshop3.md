@@ -34,6 +34,7 @@ In Javascript, objects are very useful for graphics.
 Let's see how we'd draw a circle in JavaScript.
 
 First we'd create a new variable called `circle`. We will then assign an object template to it, specifically, the `Circle()` template. We will pass the argument `30` into `Circle()`, where `30` represents the radius of the circle.
+
 ```javascript
 var circle = new Circle(30);
 ```
