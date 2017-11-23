@@ -8,7 +8,9 @@
 ```javascript
 var myVariable;
 ```
-* When we want to **assign** a value to the variable, we simply write the name of the variable followed by the `=` sign and the value. `myVariable = 2;`
+* When we want to **assign** a value to the variable, we simply write the name of the variable followed by the `=` sign and the value. ```javascript
+myVariable = 2;
+```
 
 ## Functions with Parameters
 Until now, we haven't put anything inside the brackets when we call on a function. Now, we can add **paramaters** inside the brackets. Parameters allow our function to take input.
