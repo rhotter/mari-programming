@@ -1,18 +1,15 @@
-# game-maker-workshop
-Hosted on Tuesday the 21st of November
+# Make A Game Workshop
+Hosted on Nov. 21, 2017 at Marianopolis College.
 
 ## **The file named workshop contains all solutions** 
 
-Tasks are assigned in the documents named
+Tasks are assigned in the documents named:
+1. Player
+2. Control
+3. Bad
 
-1. player
-2. control
-3. bad
+## Submitting
 
-## submitting
+Simply save your file as a text-file (`.txt`) and upload.
 
-Simply save in a text format such as `.txt` or other and upload
-
-Name according to object and event. For example
-
-`step_player.txt`
+Name it according to the object and event. For example `step_player.txt`.
